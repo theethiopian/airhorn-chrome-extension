@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "airhorn-chrome-extension",
+  "description": "A chrome extension that lets you drop an airhorn at the click of a button.",
+  "version": "1.0.0",
+
+  "browser_action" : {
+    "default_icon": "",
+    "default_popup": ""
+  }
+}
