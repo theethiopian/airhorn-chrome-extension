@@ -1,5 +1,3 @@
 # Airhorn Chrome Extension
 
-Directions:
-1. bower install
-2. load unpacked extension
+A live coding exercise to demonstrate how to make a chrome extension.
